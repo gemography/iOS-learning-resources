@@ -5,7 +5,7 @@
 * [MVP + Clean Architecture](https://github.com/FortechRomania/ios-mvp-clean-architecture)
 
 ### Design Patterns 
-...
+* [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X)
 
 ### Swift
 ... 
