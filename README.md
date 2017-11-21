@@ -23,7 +23,7 @@
 * [UIStackView Tutorial: Introducing Stack Views](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
 
 ### Debugging 
-...
+* [Visual Debugging with Xcode](https://developer.apple.com/videos/play/wwdc2016/410/)
 
 ### UIScrollView
 
